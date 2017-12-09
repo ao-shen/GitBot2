@@ -22,6 +22,6 @@ do
 	git push -u origin master
 	#echo Press Enter...
 	#read
-	ping -n 50 127.0.0.1 >nul
+	ping -n 5 127.0.0.1 >nul
 done
 
